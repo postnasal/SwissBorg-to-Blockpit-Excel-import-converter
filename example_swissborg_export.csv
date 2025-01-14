@@ -1,0 +1,6 @@
+Local time,Time in UTC,Type,Currency,Gross amount,Gross amount (CHF),Fee,Fee (CHF),Net amount,Net amount (CHF),Note
+2025-01-03 22:50:02,2025-01-03 21:50:02,Sell,CHF,50.,50.,0.,0.,50.,50.,Exchanged to 147.891953 BORG. The fees for the exchange was taken in the bought currency
+2025-01-03 22:50:02,2025-01-03 21:50:02,Buy,BORG,149.009525,50.,1.117571,0.38,147.891954,49.63,Exchanged from 50 CHF
+2025-01-05 05:11:02,2025-01-05 04:11:02,Sell,USDC,125.0269,113.12,0.,0.,125.0269,113.12,Exchanged to 0.00121853 BTC. The fees for the exchange was taken in the bought currency
+2025-01-05 05:11:02,2025-01-05 04:11:02,Buy,BTC,0.00122775,113.12,0.00000921,0.85,0.00121854,112.27,Exchanged from 125.0269 USDC
+2025-01-06 00:14:54,2025-01-06 23:14:54,Withdrawal,CHF,100.,100.,1.,1.,99.,99.,

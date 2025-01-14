@@ -1,0 +1,4 @@
+Date (UTC),Integration Name,Label,Outgoing Asset,Outgoing Amount,Incoming Asset,Incoming Amount,Fee Asset (optional),Fee Amount (optional),Comment (optional),Trx. ID (optional)
+06.01.2025 21:50:02,SwissBorg,Trade,CHF,50.0,BORG,149.009525,BORG,1.117571,Exchanged to 147.891953 BORG. The fees for the exchange was taken in the bought currency,
+07.01.2025 04:11:02,SwissBorg,Trade,USDC,125.0269,BTC,0.00122775,BTC,9.21e-06,Exchanged to 0.00121853 BTC. The fees for the exchange was taken in the bought currency,
+11.01.2025 23:14:54,SwissBorg,Withdrawal,CHF,100.0,,,CHF,7.0,,
